@@ -13,6 +13,7 @@ ExtraTorrent Mirror List
 - https://extratorrent.proxyninja.org
 - https://extratorrent2.unblockninja.com
 - https://extratorrent.st
+- https://techyguide.net/extra-torrent-proxy-unblock/
 
 The extratorrent mirror locations provided in this article are checked daily. You can also report any Extratorrent proxy sites not working properly.
 
